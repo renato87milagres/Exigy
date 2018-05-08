@@ -1,0 +1,29 @@
+C:\Users\remilagr\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\remilagr\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\remilagr\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\remilagr\source\repos\Test\Test\obj\Debug\Exigy.csproj.CoreCompileInputs.cache
+C:\Users\remilagr\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\remilagr\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\remilagr\source\repos\Test\Test\obj\Debug\Exigy.csprojResolveAssemblyReference.cache
+C:\Users\remilagr\source\repos\Test - Copia\Test\bin\Debug\Test.exe.config
+C:\Users\remilagr\source\repos\Test - Copia\Test\bin\Debug\Test.exe
+C:\Users\remilagr\source\repos\Test - Copia\Test\bin\Debug\Test.pdb
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Exigy.csprojResolveAssemblyReference.cache
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Exigy.csproj.CoreCompileInputs.cache
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Test.exe
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Test.pdb
+C:\Users\remilagr\source\repos\Test - Copia\Test\bin\Debug\Test.exe.manifest
+C:\Users\remilagr\source\repos\Test - Copia\Test\bin\Debug\Test.application
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Test.exe.manifest
+C:\Users\remilagr\source\repos\Test - Copia\Test\obj\Debug\Test.application
+C:\Users\remilagr\source\repos\TestExigy\Test\bin\Debug\Test.exe.config
+C:\Users\remilagr\source\repos\TestExigy\Test\bin\Debug\Test.exe.manifest
+C:\Users\remilagr\source\repos\TestExigy\Test\bin\Debug\Test.application
+C:\Users\remilagr\source\repos\TestExigy\Test\bin\Debug\Test.exe
+C:\Users\remilagr\source\repos\TestExigy\Test\bin\Debug\Test.pdb
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Exigy.csprojResolveAssemblyReference.cache
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Exigy.csproj.CoreCompileInputs.cache
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Test.exe.manifest
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Test.application
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Test.exe
+C:\Users\remilagr\source\repos\TestExigy\Test\obj\Debug\Test.pdb
